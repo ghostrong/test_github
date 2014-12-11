@@ -1,3 +1,6 @@
 hello world
 haha
-hello master
+<<<<<<< HEAD
+=======
+hello dev
+>>>>>>> dev
